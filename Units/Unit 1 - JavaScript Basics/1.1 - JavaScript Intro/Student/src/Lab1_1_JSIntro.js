@@ -33,15 +33,31 @@ console.log(typeof schoolName)
 
 
 // TODO 5: Create three valid camelCase variables and print them
+let firstName = "Eli";
+console.log(firstName);
+let favoriteNumber = 19;
+console.log(favoriteNumber);
+let schoolAttended = Columbus;
+console.log(schoolAttended)
+
+
+
+
+
 
 
 // 🚀 Stretch Goals (optional)
 // - Create a variable age and print "I am X years old" using concatenation
 // - Repeat using template literals
-
+let age = 18
+console.log("I am" + 18 + " years old")
+console.log('I am ${age} years old')
 /* ===========================================================
    🎟 EXIT TICKET
    1. What new concept or skill did you learn in this lab?
-   2. What challenges did you encounter, and how did you solve them?
+   The basics of Javascript and the fundamental coding involved.
+   2. What challenges did you encounter, and how did you solve them?.
+   The challenges I encountered was learning a totally new coding language seperate from html and css.
    3. Where else could this programming concept be useful?
+   This could be useful in making servers and webs.
    =========================================================== */
