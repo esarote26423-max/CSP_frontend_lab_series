@@ -18,16 +18,16 @@ console.log(favoriteFood);
 // TODO 3: Create variable mystery, assign a string, then a number, print type each time
 let mystery;
 
-string = "Eli";
+mystery = "Eli";
 console.log(typeof mystery);
-number = 19;
+mystery = 19;
 console.log(typeof mystery);
 
-
+ 
 // TODO 4: Declare const schoolName, try to reassign
 const schoolName = "Columbus";
 
-schoolName = "CCHS"; 
+schoolName = "CCHS"; ``
 console.log(typeof schoolName)
 
 
@@ -38,7 +38,7 @@ console.log(firstName);
 let favoriteNumber = 19;
 console.log(favoriteNumber);
 let schoolAttended = Columbus;
-console.log(schoolAttended)
+console.log(schoolAttended);
 
 
 
