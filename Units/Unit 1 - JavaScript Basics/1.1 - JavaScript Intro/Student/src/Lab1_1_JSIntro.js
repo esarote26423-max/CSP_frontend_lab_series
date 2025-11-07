@@ -27,7 +27,7 @@ console.log(typeof mystery);
 // TODO 4: Declare const schoolName, try to reassign
 const schoolName = "Columbus";
 
-schoolName = "CCHS"; ``
+// schoolName = "CCHS"; 
 console.log(typeof schoolName)
 
 
@@ -37,7 +37,7 @@ let firstName = "Eli";
 console.log(firstName);
 let favoriteNumber = 19;
 console.log(favoriteNumber);
-let schoolAttended = Columbus;
+let schoolAttended = "Columbus";
 console.log(schoolAttended);
 
 
