@@ -25,9 +25,7 @@ Loop `i=1..50`. If `%15===0` → FizzBuzz; else if `%3===0` → Fizz; else if `%
 ### 12) Number Classifier
 Loop `n=1..20`. Write `isPrime(n)`; if prime → 'prime'; else if even → 'even'; else 'odd'.
 
-### 13) Guess the Number
-Pick `secret=1..10` (use random). While not correct, prompt guesses; give 'Too high/low' hints.
-
+### 13) C
 ### 14) Star Pyramid
 Nested loops: rows 1..4, build line of `*` of length `row`. Print each line.
 

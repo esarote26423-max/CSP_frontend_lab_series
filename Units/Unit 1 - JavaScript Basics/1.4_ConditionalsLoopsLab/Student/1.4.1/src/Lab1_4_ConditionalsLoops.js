@@ -29,6 +29,15 @@ switch (language) {
     case "giving":
         console.log("here...")
 }
+
+ let ticker = "APPL"
+
+ switch (ticker){
+    case "APPL":
+    case "NVDA":
+    case "META":
+        console.log(" $(ticker) is a TECH stock")
+ }
 // TODO 4: While loop (1 to 10)
 let score = 0
 while (score < 10) { 
@@ -46,14 +55,14 @@ do {
     }
 } while (count <= 100)
 // TODO 6: For loop (1 to 20, print "ten" at 10 and "twenty" at 20)
-for (let i =1; i , 20, i++) {
+for (let i =1; i , 20, i++;); {
     if (i == 10) {
         console.log("ten")
     } else if (i === 20)
         console.log("twenty")
 }
 // TODO 7: Even/Odd loop (1 to 20)
-for (let i =1; i <=20, i++) {
+for (let i =1; i <=20, i++;) {
     if (i % 2 === 0) {
         console.log("i is even")
     } else
